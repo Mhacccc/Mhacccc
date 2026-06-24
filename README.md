@@ -4,49 +4,15 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Aspiring+Software+Engineer;Full-Stack+Developer;React+%7C+Next.js+%7C+Node.js;Building+Real-World+Applications;Always+Learning+New+Technologies" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/Mhacccc">
-    <img src="https://komarev.com/ghpvc/?username=Mhacccc&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
-  </a>
-</p>
-
 ---
 
 ## 👨‍💻 About Me
 
-I'm a graduating **Bachelor of Science in Information Technology** student from the **Technological University of the Philippines - Manila**.
+I'm an aspiring **Software Engineer** and graduating **BSIT student** from the **Technological University of the Philippines - Manila**.
 
-I recently completed my internship at **Creciendo Philippines Incorporated**, where I contributed to the development of a Human Resource Information System (HRIS), worked on frontend and backend features, and implemented AI-powered OCR integration to improve user experience.
+I enjoy building scalable web applications, designing efficient systems, and solving real-world problems through technology. My interests span both frontend and backend development, with a strong focus on creating reliable, maintainable, and user-centered software.
 
-My primary interest is **Software Engineering and Full-Stack Development**, where I enjoy building practical solutions that solve real-world problems.
-
----
-
-## 🚀 Featured Projects
-
-### 🚨 IoT-Integrated Mobile Safety Application with Smart Bracelet
-
-Lead Developer for the software component of an emergency response system designed to improve personal safety and emergency response.
-
-**Technologies:** React Native, Firebase, Python, GPS Integration, IoT
-
----
-
-### 👥 User Management System
-
-A full-stack user management application featuring authentication, authorization, role-based access control, and CRUD operations.
-
-**Technologies:** Next.js, Express.js, MongoDB, Tailwind CSS
-
-🔗 Repository: https://github.com/Mhacccc/user-management-system
-
----
-
-### 🎸 Guitar E-Commerce Website
-
-A full-stack e-commerce platform with authentication, product management, shopping cart, and order processing.
-
-**Technologies:** React.js, Node.js, Express.js, MySQL
+I am constantly exploring new technologies and best practices to become a better developer and build solutions that make a meaningful impact.
 
 ---
 
@@ -122,10 +88,9 @@ My goal is to become a Software Engineer who builds reliable, scalable, and impa
 
 ## 🤝 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mark%20Louie%20Balaba-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/mark-louie-balaba-b33972352/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mark%20Louie%20Balaba-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/mlbalaba/)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-000000?style=for-the-badge\&logo=vercel\&logoColor=white)](https://marklouie-balaba-portfolio.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-000000?style=for-the-badge\&logo=vercel\&logoColor=white)](https://mhacccc.vercel.app/)
 
-[![GitHub](https://img.shields.io/badge/GitHub-Mhacccc-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Mhacccc)
 
 📧 [marklouie.balaba14@gmail.com](mailto:marklouie.balaba14@gmail.com)
